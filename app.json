@@ -1,0 +1,7 @@
+{
+  "name": "FlashPass",
+  "description": "The main Ven0mYT site!",
+  "repository": "https://github.com/Ven0mYT/ven0myt.github.io",
+  "logo": "https://ven0myt.github.io/img/double.png",
+  "keywords": ["node", "express", "static"]
+}
