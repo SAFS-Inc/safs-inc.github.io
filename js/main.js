@@ -1,7 +1,3 @@
-// Hello there!
-//
-// If you want to add my games to your google site or game website, please reach out at my email: 10thepancake10@gmail.com, or discord:Ven0mPlayzYT#6966
-
 console.warn(
   "%cNote!",
   "color: purple; font-weight: 600; background: yellow; padding: 0 5px; border-radius: 5px",
