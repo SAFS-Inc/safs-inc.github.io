@@ -1,3 +1,3 @@
 # ven0myt.github.io
-My website
-Adding some games soon just wait please
+
+Basically 3kh0's site but my version and I'm still working on it too. There are tons of games, bookmarklets, and proxies. Enjoy!
