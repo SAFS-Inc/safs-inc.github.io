@@ -133,6 +133,23 @@
     </style>
   </head>
   <body>
+  <script>
+//Check if the page is loaded in an iframe
+if(window.self != window.top) {
+  //Almost all browsers will deny Cross-Origin script access, so
+  //we will use a try-catch block
+  try {
+    if(window.parent.location.hostname.indexOf("https://ven0myt.github.io/%22) == -1) {
+      window.location.href = "https://ven0myt.github.io/";
+    } else {
+      //You are in an iframe but Same-Origin
+    }
+  } catch (ex) {
+    //Well, the person who owns this site is embedding
+    window.location.href = "https://ven0myt.github.io/";
+  }
+}
+</script>
     <div id="particles-js"></div>
     <div class="container">
       <div class="box__row">
