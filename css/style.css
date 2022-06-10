@@ -1,10 +1,10 @@
 html {
     box-sizing: border-box;
-    font-family: "Exo 2";
+    font-family: "Comic Sans MS";
 }
 @font-face {
-    font-family: "Exo 2";
-    src: url("../font/exo2/Exo2-Regular.ttf");
+    font-family: "Comic Sans MS";
+    src: url("../font/comic-sans-ms/comic-sans-ms.TTF");
     font-size: 13pt;
 }
 *,
@@ -25,7 +25,7 @@ h3 {
     color: #b0d138;
 }
 p {
-    font-family: "Exo 2";
+    font-family: "Comic Sans MS";
     text-align: justify;
     text-justify: inter-word;
     color: #2a2a2d;
@@ -44,7 +44,7 @@ p {
 }
 
 h3 {
-    font-family: "Exo 2";
+    font-family: "Comic Sans MS";
     text-transform: uppercase;
     margin-top: 3%;
     font-size: 15px;
