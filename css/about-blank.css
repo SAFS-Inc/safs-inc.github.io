@@ -9,15 +9,15 @@ body {
     text-align: center;
   }
   a {
-    color: #4287f5;
+    color: #800080;
   }
   input {
     background: rgba(0, 0, 0, 0);
     border: none;
     outline: none;
     width: 100%;
-    border-bottom: 1px solid #63de00;
-    color: #63de00;
+    border-bottom: 1px solid #800080;
+    color: #ff00000;
     font-family: "Comic Neue";
     font-size: inherit;
   }
@@ -69,8 +69,8 @@ body {
     box-sizing: border-box;
     font-family: "Comic Neue";
     padding: 20px;
-    background-color: #3b3b3b;
-    color: #63de00;
+    background-color: #ff;
+    color: #800080;
     border-radius: 15px;
   }
   
@@ -97,7 +97,7 @@ body {
     border: none;
     outline: none;
     color: rgb(0, 0, 0);
-    background: white;
+    background: purple;
     cursor: pointer;
     position: relative;
     border-radius: 10px;
